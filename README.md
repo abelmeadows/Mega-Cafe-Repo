@@ -1,2 +1,2 @@
 # Mega-Cafe-Repo
-This an enterprise resource management project that features login, supply, order, user management and reporting systems
+This is an enterprise resource management suit project that features login, supply, order, user management and reporting systems
